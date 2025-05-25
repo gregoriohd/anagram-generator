@@ -1,0 +1,27 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build output
+bin/
+target/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários comuns
+*.tmp
+*.bak
+*.swp
+
+# Arquivos do Maven
+dependency-reduced-pom.xml
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
