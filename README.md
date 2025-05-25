@@ -119,6 +119,6 @@ System.out.println(anagrams);
 
 ## 👨‍💻 Autor
 
-- **Gregorio Santos** - [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+- [**Gregorio Santos**](http://gregoriosantos.com.br) - [LinkedIn](https://www.linkedin.com/in/gregorio-santos) | [GitHub](https://github.com/gregoriohd)
 
 ---
